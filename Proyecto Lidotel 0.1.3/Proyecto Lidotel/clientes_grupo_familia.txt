@@ -1,0 +1,3 @@
+pene,pene,23,@g.com,012392134345,6,FAMILY ROOM,1200
+mediero,cojitos,233,@.com,23123123434,6,FAMILY ROOM,1200
+pedrito,pene,N/A,N/A,N/A,Edad:8,6,FAMILY ROOM,1200
